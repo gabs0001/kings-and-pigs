@@ -1,9 +1,3 @@
-Com certeza\! A biblioteca **GSAP (GreenSock Animation Platform)** é um excelente detalhe para adicionar, pois ela é amplamente usada para criar animações de alta performance e vai reforçar a qualidade visual do seu projeto.
-
-Vou atualizar o README do **Kings and Pigs** para incluir o uso da GSAP, destacando onde ela pode estar sendo utilizada (por exemplo, na transição entre níveis, no movimento da câmera, ou em pequenos detalhes do *player*).
-
------
-
 ## 👑 Kings and Pigs: Level Builder e Animação 2D
 
 Uma demonstração técnica de um ambiente 2D que foca na renderização dinâmica de mapas e detecção de colisão. O objetivo do jogador é guiar o personagem (*King*) através de diferentes níveis gerados com a ferramenta **Tiled**, alcançando a porta de saída para progredir.
