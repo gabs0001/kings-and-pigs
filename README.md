@@ -23,7 +23,7 @@ Este projeto foi construído inteiramente com tecnologias web, JavaScript e uma 
   * **HTML5 Canvas** (Renderização gráfica 2D)
   * **CSS3** (Estilização básica)
   * **JavaScript (Puro)** (Lógica do jogo, classes, física e controle)
-  * **GSAP (GreenSock Animation Platform)**: Utilizada para criar animações fluidas, transições de câmera, efeitos de tela e detalhes da movimentação do *player*.
+  * **GSAP (GreenSock Animation Platform)**: Utilizada para criar efeitos de tela, no momento de transição entre os níveis
   * **Tiled** (Ferramenta para criação de mapas e exportação de dados de *tilemap* e colisão)
 
 -----
@@ -50,7 +50,7 @@ Este projeto não requer dependências complexas (apenas um navegador web modern
 | :--- | :--- |
 | Mover para Esquerda | **A** |
 | Mover para Direita | **D** |
-| Pular | **Espaço** |
+| Pular | **W** |
 
 -----
 
